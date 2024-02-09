@@ -1,2 +1,1 @@
-# design-pattern
-This repository provides concrete examples of implementing the Singleton and Strategy design patterns in Java. It is designed to illustrate best practices in applying these patterns to solve common software design challenges.
+This repository is dedicated to demonstrating the application of Singleton and Strategy design patterns in Java. It serves as a practical guide to utilizing these patterns effectively to address typical challenges in software design, showcasing the recommended practices for their implementation.
